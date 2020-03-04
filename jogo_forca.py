@@ -1,5 +1,5 @@
 # Forca
-Jogo da forca com python
+#Jogo da forca com python
 palavra_secreta = ["M","O","R","C","E","G","O"]
 letras_descobertas = []
 
